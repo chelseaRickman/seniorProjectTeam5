@@ -46,4 +46,5 @@
 
 - [Developer tools](https://extendsclass.com/) Tools directly usable in a browser. Syntax validators, code formatters, testers, HTTP clients, mock server, but also a SQLite browser.
 - [HTML-CSS-JS](https://html-css-js.com/) Online HTML, CSS and JS editor with instant preview.
+- [.NET Core MVC](https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/razor-pages-start?view=aspnetcore-5.0&tabs=visual-studio) Tutorial for creating a .NET Core MVC app which creates a template to build to develop our front-end and back-end
 - [WEB2PY](http://www.web2py.com/books/default/chapter/29/03/overview) A Python framework that includes frontend, backend, a free virtual server, and a SQLite database
