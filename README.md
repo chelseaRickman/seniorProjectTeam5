@@ -46,4 +46,4 @@
 
 - [Developer tools](https://extendsclass.com/) Tools directly usable in a browser. Syntax validators, code formatters, testers, HTTP clients, mock server, but also a SQLite browser.
 - [HTML-CSS-JS](https://html-css-js.com/) Online HTML, CSS and JS editor with instant preview.
-- [WEB2PY] (http://www.web2py.com/books/default/chapter/29/03/overview) A Python framework that includes frontend, backend, a free virtual server, and a SQLite database
+- [WEB2PY](http://www.web2py.com/books/default/chapter/29/03/overview) A Python framework that includes frontend, backend, a free virtual server, and a SQLite database
