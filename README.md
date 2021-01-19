@@ -37,6 +37,11 @@
 - [Project Based Learning](https://github.com/tuvtran/project-based-learning) A list of programming tutorials in which learners build an application from scratch.
 - [Build Your Own](https://github.com/danistefanovic/build-your-own-x) A list of programming tutorials focused on projects
 
+## Front End / Back End
+
+- [Front/Back End](https://en.wikipedia.org/wiki/Front_end_and_back_end) Wiki web development layer info
+- [Web Frameworks](https://en.wikipedia.org/wiki/Comparison_of_web_frameworks) This is a comparison of notable web frameworks, software used to build and deploy web applications.
+
 ## Tools Links
 
 - [Developer tools](https://extendsclass.com/) Tools directly usable in a browser. Syntax validators, code formatters, testers, HTTP clients, mock server, but also a SQLite browser.
