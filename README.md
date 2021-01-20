@@ -41,6 +41,7 @@
 
 - [Front/Back End](https://en.wikipedia.org/wiki/Front_end_and_back_end) Wiki web development layer info
 - [Web Frameworks](https://en.wikipedia.org/wiki/Comparison_of_web_frameworks) This is a comparison of notable web frameworks, software used to build and deploy web applications.
+- [.NET Core/Azure](https://azure.microsoft.com/en-us/free/students/starter/) Looks like we can deploy our web app using .NET core and Azure for free as students. This would cover the backend side of things.
 
 ## Tools Links
 
