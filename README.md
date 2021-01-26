@@ -1,5 +1,7 @@
 # Photography Website
 
+- [Team Google Doc](https://docs.google.com/document/d/1ih4oQpB2ydHlKVY1ZZvDiKjfhwjphPMkExPCE9TqLjA/edit?usp=sharing)
+
 ## User: Photographer
 
 ### What needs to be addressed?
