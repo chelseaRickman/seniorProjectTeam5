@@ -2,20 +2,23 @@
 
 - [Team Google Doc](https://docs.google.com/document/d/1ih4oQpB2ydHlKVY1ZZvDiKjfhwjphPMkExPCE9TqLjA/edit?usp=sharing)
 
+---
+
 ## Research
 - ### User Authentication
-  - [Example](www.google.com)
+  - [Example](www.google.com) Link Description
 - ### Photo Storage/Upload
-  - [Example](www.google.com)
+  - [Example](www.google.com) Link Description
 - ### Blog Posts
-  - [Example](www.google.com)
+  - [Example](www.google.com) Link Description
 - ### Email for forms
-  - [Example](www.google.com)
+  - [Example](www.google.com) Link Description
 - ### Database
-  - [Example](www.google.com)
+  - [Example](www.google.com) Link Description
+
+---
 
 ### Learning Links
-
 - [MDM Web Docs](https://developer.mozilla.org/en-US/docs/Web) Mozzilla web developement resource page
 - [The Odin Project](https://www.theodinproject.com/home) Full stack curriculum
 - [Full Stack Web Development](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)100+ Free resources for learning Full Stack Web Development
@@ -28,18 +31,22 @@
 - [Project Based Learning](https://github.com/tuvtran/project-based-learning) A list of programming tutorials in which learners build an application from scratch.
 - [Build Your Own](https://github.com/danistefanovic/build-your-own-x) A list of programming tutorials focused on projects
 
-### Front End / Back End
+---
 
+### Front End / Back End
 - [Front/Back End](https://en.wikipedia.org/wiki/Front_end_and_back_end) Wiki web development layer info
 - [Web Frameworks](https://en.wikipedia.org/wiki/Comparison_of_web_frameworks) This is a comparison of notable web frameworks, software used to build and deploy web applications.
 - [.NET Core/Azure](https://azure.microsoft.com/en-us/free/students/starter/) Looks like we can deploy our web app using .NET core and Azure for free as students. This would cover the backend side of things.
 
-### Tools Links
+---
 
+### Tools Links
 - [Developer tools](https://extendsclass.com/) Tools directly usable in a browser. Syntax validators, code formatters, testers, HTTP clients, mock server, but also a SQLite browser.
 - [HTML-CSS-JS](https://html-css-js.com/) Online HTML, CSS and JS editor with instant preview.
 - [.NET Core MVC](https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/razor-pages-start?view=aspnetcore-5.0&tabs=visual-studio) Tutorial for creating a .NET Core MVC app which creates a template to build to develop our front-end and back-end
 - [WEB2PY](http://www.web2py.com/books/default/chapter/29/03/overview) A Python framework that includes frontend, backend, a free virtual server, and a SQLite database
+
+---
 
 # SRS Document
 <details>
