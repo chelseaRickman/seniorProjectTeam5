@@ -9,12 +9,15 @@
   - [Example](www.google.com) Link Description
 - ### Photo Storage/Upload
   - [Example](www.google.com) Link Description
+  - [Strapi CMS](https://strapi.io/) A headless CMS using Node.js that is super simple to set up and would handle all the uploading/editing of photos for us and the photographer
 - ### Blog Posts
   - [Example](www.google.com) Link Description
+  - [Strapi CMS](https://strapi.io/) A headless CMS using Node.js that is super simple to set up and would handle all the uploading/editing of blogposts for us and the photographer
 - ### Email for forms
   - [Example](www.google.com) Link Description
 - ### Database
   - [Example](www.google.com) Link Description
+  - [Azure SQL Database](https://docs.microsoft.com/en-us/azure/azure-sql/database/single-database-create-quickstart?tabs=azure-portal) Article on how to set up a database within Azure
 
 ---
 
