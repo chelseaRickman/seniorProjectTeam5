@@ -7,6 +7,7 @@
 ## Research
 - ### User Authentication
   - [Example](www.google.com) Link Description
+  - [Strapi Authentication](https://strapi.gitee.io/documentation/3.0.0-alpha.x/guides/authentication.html#token-usage) Strapi CMS includes authentication
 - ### Photo Storage/Upload
   - [Example](www.google.com) Link Description
   - [Strapi CMS](https://strapi.io/) A headless CMS using Node.js that is super simple to set up and would handle all the uploading/editing of photos for us and the photographer
